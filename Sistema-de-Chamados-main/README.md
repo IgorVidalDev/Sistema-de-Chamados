@@ -30,7 +30,9 @@ Para rodar o backend, siga os seguintes passos:
    npm start
 
 O frontend ficará disponível em http://localhost:3000.
-Requisitos
+
+
+## Requisitos
 
 Node.js instalado (versão recomendada LTS)
 
