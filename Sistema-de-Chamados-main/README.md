@@ -19,3 +19,19 @@ Para rodar o backend, siga os seguintes passos:
 
    ```bash
    cd backend
+
+2. Instale as dependências do frontend:
+
+   ```bash
+   npm install
+
+3. Inicie o servidor de desenvolvimento do frontend:
+   ```bash
+   npm start
+
+O frontend ficará disponível em http://localhost:3000.
+Requisitos
+
+Node.js instalado (versão recomendada LTS)
+
+NPM (ou Yarn)
